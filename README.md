@@ -1,0 +1,2 @@
+# BotNet
+My bot discord
