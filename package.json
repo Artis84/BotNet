@@ -1,0 +1,21 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "Bot discord",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon"
+  },
+  "author": "Jacques",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "event-stream": "^4.0.1",
+    "jquery": "^3.3.1",
+    "jsdom": "^13.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.6"
+  }
+}
